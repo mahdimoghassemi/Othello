@@ -86,5 +86,3 @@ Before diving into the game, ensure you have the following prerequisites:
 
 
 Enjoy playing Othello, and happy coding!
-
-This README provides an introduction to your Othello game project, instructions for compilation and usage, guidelines for contributing, and information about licensing. Be sure to replace `"yourusername"` with your actual GitHub username and customize any other project-specific details as needed.
